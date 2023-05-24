@@ -1,0 +1,2 @@
+Este projeto trata da criação de um pipeline de dados para coletar, transformar e carregar informações de várias fontes para um banco de dados PostgreSQL. A solução envolve o uso de Python para processamento de dados, Apache Airflow para orquestração do pipeline e PostgreSQL como destino dos dados. O objetivo é automatizar o processo de obtenção e transformação dos dados, permitindo análises e tomada de decisões com base nessas informações.
+
